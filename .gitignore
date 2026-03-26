@@ -1,3 +1,6 @@
+# IDE
+.idea
+
 # Dependencies
 .psci_modules
 .spago
